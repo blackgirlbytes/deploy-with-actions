@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/deploy-with-actions/static/css/main.a617e044.chunk.css",
-    "main.js": "/deploy-with-actions/static/js/main.d45df150.chunk.js",
-    "main.js.map": "/deploy-with-actions/static/js/main.d45df150.chunk.js.map",
-    "runtime-main.js": "/deploy-with-actions/static/js/runtime-main.a41d78fc.js",
-    "runtime-main.js.map": "/deploy-with-actions/static/js/runtime-main.a41d78fc.js.map",
-    "static/js/2.a529562a.chunk.js": "/deploy-with-actions/static/js/2.a529562a.chunk.js",
-    "static/js/2.a529562a.chunk.js.map": "/deploy-with-actions/static/js/2.a529562a.chunk.js.map",
-    "static/js/3.912c2904.chunk.js": "/deploy-with-actions/static/js/3.912c2904.chunk.js",
-    "static/js/3.912c2904.chunk.js.map": "/deploy-with-actions/static/js/3.912c2904.chunk.js.map",
+    "main.css": "/deploy-with-actions/static/css/main.8b026f58.chunk.css",
+    "main.js": "/deploy-with-actions/static/js/main.b22810a9.chunk.js",
+    "main.js.map": "/deploy-with-actions/static/js/main.b22810a9.chunk.js.map",
+    "runtime-main.js": "/deploy-with-actions/static/js/runtime-main.8635aab0.js",
+    "runtime-main.js.map": "/deploy-with-actions/static/js/runtime-main.8635aab0.js.map",
+    "static/js/2.4448e0de.chunk.js": "/deploy-with-actions/static/js/2.4448e0de.chunk.js",
+    "static/js/2.4448e0de.chunk.js.map": "/deploy-with-actions/static/js/2.4448e0de.chunk.js.map",
+    "static/js/3.dd62a82c.chunk.js": "/deploy-with-actions/static/js/3.dd62a82c.chunk.js",
+    "static/js/3.dd62a82c.chunk.js.map": "/deploy-with-actions/static/js/3.dd62a82c.chunk.js.map",
     "index.html": "/deploy-with-actions/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/deploy-with-actions/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.a529562a.chunk.js.LICENSE.txt": "/deploy-with-actions/static/js/2.a529562a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/deploy-with-actions/static/media/logo.6ce24c58.svg"
+    "static/css/main.8b026f58.chunk.css.map": "/deploy-with-actions/static/css/main.8b026f58.chunk.css.map",
+    "static/js/2.4448e0de.chunk.js.LICENSE.txt": "/deploy-with-actions/static/js/2.4448e0de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a41d78fc.js",
-    "static/js/2.a529562a.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.d45df150.chunk.js"
+    "static/js/runtime-main.8635aab0.js",
+    "static/js/2.4448e0de.chunk.js",
+    "static/css/main.8b026f58.chunk.css",
+    "static/js/main.b22810a9.chunk.js"
   ]
 }
