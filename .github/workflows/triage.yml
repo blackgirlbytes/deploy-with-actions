@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: take an issue
-        uses: blackgirlbytes/take-action@dont-assign-new-user
+        uses: blackgirlbytes/take-action@add-a-comment
         env:
           GITHUB_TOKEN: ${{ github.token }}
         with:
