@@ -16,3 +16,4 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         with:
           message: Thanks for taking this on! If you have not already, join the conversation in our [Discord](https://discord.gg/U2peSNf23P)
+          testMessage: You can't have this hahaha
